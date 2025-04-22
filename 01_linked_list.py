@@ -1,7 +1,6 @@
 # linked list: 
 # In data structures and algorithms (DSA), a linked list is a linear data structure that stores a sequence of elements, or nodes, 
 # that are connected by pointers. 
-
 # How it works 
 # Each node contains data and a pointer to the next node
 # The first node is called the head, and the last node is called the tail

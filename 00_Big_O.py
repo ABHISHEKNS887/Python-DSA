@@ -4,6 +4,7 @@
 # evaluate how efficiently an algorithm scales.
 
 # Key Big O Notations
+
 # O(1) - Constant Time
 
 # The runtime does not depend on the size of the input.
