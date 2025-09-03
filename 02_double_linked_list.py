@@ -1,5 +1,6 @@
 # Doubly linked list: A doubly linked list is a bi-directional linked list. So, you can traverse it in both directions. 
-# Unlike singly linked lists, its nodes contain one extra pointer called the previous pointer. This pointer points to the previous node.
+# Unlike singly linked lists, its nodes contain one extra pointer called the previous pointer. 
+# This pointer points to the previous node.
 
 class Node:
     def __init__(self, value):
